@@ -1,5 +1,5 @@
 
-# Cobrinha Feliz
+# slither.p5
 ## Autores
 Gustavo Colombini <br>
 Igor Paço Sguissardi de Oliveira
